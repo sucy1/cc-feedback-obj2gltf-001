@@ -1,0 +1,5 @@
+来源仓库：https://github.com/CesiumGS/obj2gltf
+冻结 commit：979a24a770154e8e9b964a554f86436dc4cafafa
+许可证：Apache-2.0
+导入日期：2026-11-16
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
